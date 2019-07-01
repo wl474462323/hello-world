@@ -1,2 +1,5 @@
 # hello-world
-use github
+
+Hi humens!
+
+I like JavaScript!
